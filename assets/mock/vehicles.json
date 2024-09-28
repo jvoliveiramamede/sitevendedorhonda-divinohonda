@@ -1,0 +1,34 @@
+{
+    "vehicles": [
+        {
+            "id": 1,
+            "name": "CG 160 Start",
+            "img": "assets/images/vehicles/cg-160-start/001.jpg"
+        },
+        {
+            "id": 2,
+            "name": "CG 160 Titan",
+            "img": "assets/images/vehicles/cg-160-titan/001.jpg"
+        },
+        {
+            "id": 3,
+            "name": "CG 160 Fan",
+            "img": "assets/images/vehicles/cg-160-fan/001.jpeg"
+        },
+        {
+            "id": 4,
+            "name": "CG 160 Cargo",
+            "img": "assets/images/vehicles/cg-160-cargo/001.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Biz 125 ES",
+            "img": "assets/images/vehicles/biz-125-es/001.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Pop 110i ES",
+            "img": "assets/images/vehicles/pop-110i-es/001.jpg"
+        }
+    ]
+}
